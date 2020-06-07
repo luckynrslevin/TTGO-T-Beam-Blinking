@@ -3,6 +3,8 @@ LED Blinking example for TTGO T-Beam
 
 Since I was struggeling a lot and it took me quite some hours to collect the necessary information and adapt it to bring up my TTGO T-Beam using the Arduino IDE I decided tho share my experience and results.
 
+Ti works for my board and environment. However, USE AT YOUR OWN RISK!!
+
 ## Hardware
 There are different versions of the TTGO T-Beam and I have the one with the three buttons next to the micro USB connector, not sure which version number this is.
 
