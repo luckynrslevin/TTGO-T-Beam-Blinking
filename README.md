@@ -6,16 +6,28 @@ Since I was struggeling a lot and it took me quite some hours to collect the nec
 ## Hardware
 There are different versions of the TTGO T-Beam and I have the one with the three buttons next to the micro USB connector, not sure which version number this is.
 
-TODO: Add photo
+<img src="https://github.com/luckynrslevin/TTGO-T-Beam-Blinking/raw/master/images/TTGO-T-Beam.JPG" width="200">
 
-## Arduino IDE configuration
+## Arduino IDE
 ### Libraries
-You have to add the following depending libraries to your Arduino IDE:
+You have to add the AXP202X library to your Arduino IDE. On my mac I did this on the command line by changing to the Arduino library directory (usually <your user home directory>/Documents/Arduino/libraries ) and afterwards clone the git repository by
 
-TODO
+```
+git clone https://github.com/lewisxhe/AXP202X_Library
+```
+Afterwards I think you have to restart Arduino IDE.
 
 ### Board settings
+I use these board settings
+
 ![Arduino tools configuration settings](/images/LilyGO-T-Beam-Arduino%201.8.12.png)
+
+
+### Compile and upload the sketch to your board
+Push the "verify" button in Arduinoe IDE to check if everything compiles without errors.
+Afterwards push "Upload" button to upload to your board.
+
+If everything was sucessfull the blue led should start blinking. Maybe you have to unplug the power adapter (USB cable) and plug it in again.
 
 
 ## References
