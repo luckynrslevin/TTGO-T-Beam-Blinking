@@ -12,7 +12,7 @@ There are different versions of the TTGO T-Beam and I have the one with the thre
 
 ## Arduino IDE
 ### Libraries
-You have to add the AXP202X library to your Arduino IDE. On my mac I did this on the command line by changing to the Arduino library directory (usually <your user home directory>/Documents/Arduino/libraries ) and afterwards clone the git repository by
+You have to add the AXP202X library to your Arduino IDE. On my mac I did this on the command line by changing to the Arduino library directory (usually "your user home directory"/Documents/Arduino/libraries ) and clone the git repository by
 
 ```
 git clone https://github.com/lewisxhe/AXP202X_Library
