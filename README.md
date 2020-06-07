@@ -6,7 +6,7 @@ Since I was struggeling a lot and it took me quite some hours to collect the nec
 Ti works for my board and environment. However, USE AT YOUR OWN RISK!!
 
 ## Hardware
-There are different versions of the TTGO T-Beam and I have the one with the three buttons next to the micro USB connector, not sure which version number this is.
+There are different versions of the TTGO T-Beam and I have the one with the three buttons next to the micro USB connector, I think it is version 1.0.
 
 <img src="https://github.com/luckynrslevin/TTGO-T-Beam-Blinking/raw/master/images/TTGO-T-Beam.JPG" width="200">
 
